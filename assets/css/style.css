@@ -486,7 +486,7 @@ g.Header {
     padding: 5px 0;
 }
 
-.menu .social-icons {
+/* .menu .social-icons {
     margin-bottom: 30px;
     transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
@@ -497,7 +497,7 @@ g.Header {
     margin-left: 15px;
     font-size: 13px;
     color: #252525;
-}
+} */
 
 .menu .social-icons a:first-of-type {
     margin-left: 0;
@@ -516,6 +516,12 @@ g.Header {
     font-weight: 500;
     color: #252525;
     letter-spacing: 0.5px;
+}
+.social-icons i {
+    font-size: 25px
+}
+.center-block {
+    padding-top:40px;
 }
 
 .about h3 {
